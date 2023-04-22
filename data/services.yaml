@@ -1,0 +1,14 @@
+titre: Nos services
+liste:
+- title: Entretien
+  description: "Nous proposons un entretien régulier de votre piscine, incluant le nettoyage, l'équilibrage des produits chimiques et la vérification de l'équipement."
+  image: /imgs/entretien.png
+  alt: Entretien de piscine
+- title: Réparation
+  description: "Nos techniciens spécialisés interviennent pour diagnostiquer et réparer tout problème d'équipement de piscine, des pompes et filtres aux chauffages et éclairages."
+  image: /imgs/reparation.png
+  alt: Réparation de piscine
+- title: Ouverture et fermeture
+  description: "Nous assurons l'ouverture de votre piscine au printemps et sa mise en veille pour l'hiver, en veillant à la protection optimale de votre installation."
+  image: /imgs/ouverture-fermeture.png
+  alt: Ouverture et fermeture de piscine

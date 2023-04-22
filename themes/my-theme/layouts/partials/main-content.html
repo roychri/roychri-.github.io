@@ -1,0 +1,48 @@
+
+    <div class="hero">
+      <h2>{{ .Params.hero.titre }}</h2>
+      <p>{{ .Params.hero.description }}</p>
+      <a href="{{ .Params.hero.bouton.section }}" class="cta-button">{{ .Params.hero.bouton.texte }}</a>
+    </div>
+
+    <section id="a-propos">
+        <h2>{{ .Params.apropos.titre }}</h2>
+        <p>{{ .Params.apropos.description }}</p>
+    </section>
+
+
+    <section id="services">
+      <h2>{{ .Site.Data.services.titre }}</h2>
+      {{ range .Site.Data.services.liste }}
+        <div class="service">
+            <img src="{{ .image }}" alt="{{ .alt }}">
+            <h3>{{ .title }}</h3>
+            <p>{{ .description }}</p>
+        </div>
+      {{ end }}
+    </section>
+
+
+    <section id="heures">
+      <h2>{{ .Params.heures.titre }}</h2>
+      {{ range .Params.heures.liste }}
+      <p>{{ . }}</p>
+      {{ end }}
+    </section>
+
+    <section id="regions">
+        <h2>{{ .Site.Data.regions.titre }}</h2>
+        <p>{{ .Site.Data.regions.description }}</p>
+        <ul>
+          {{ range .Site.Data.regions.liste }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+    </section>
+
+    <section id="contact">
+      <h2>{{ .Params.contact.titre }}</h2>
+      <p>{{ .Params.contact.email.titre}}: {{ .Params.contact.email.address }}</p>
+      <p>{{ .Params.contact.telephone.titre }}: {{ .Params.contact.telephone.numero }}</p>
+    </section>
+
