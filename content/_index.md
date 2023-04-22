@@ -27,6 +27,6 @@ heures:
   titre: Heures d'ouverture
   liste:
   - "Lundi - Vendredi : 9h00 - 18h00"
-  - "Samedi : 10h00 - 16h00"
+  - "Samedi : Fermé"
   - "Dimanche : Fermé"
 ---
