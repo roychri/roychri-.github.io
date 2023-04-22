@@ -5,7 +5,7 @@ menu:
   services: Services
   heures: Heures d'ouverture
   regions: Régions desservies
-  contact: Contact
+  contact: Contactez-nous
 hero:
   titre: "Des services de piscine professionnels et de haute qualité"
   description: "Confiez-nous l'entretien de votre piscine pour profiter d'une expérience de baignade exceptionnelle."
