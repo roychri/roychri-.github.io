@@ -65,7 +65,7 @@ nav a:hover {
 .cta-button {
     display: inline-block;
     background: #a31101; /* Updated color */
-    color: #050523; /* Updated color */
+    color: #c0b9ac; /* Updated color */
     padding: 0.5rem 1rem;
     text-decoration: none;
     border-radius: 5px;
@@ -151,7 +151,7 @@ section p {
 }
 
 #regions li {
-    background: #050523; /* Updated color */
+    background: #a31101; /* Updated color */
     color: #c0b9ac; /* Updated color */
     font-size: 1.2rem;
     padding: 0.5rem 1rem;
