@@ -8,13 +8,13 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    color: #333;
+    color: #050523; /* Updated color */
 }
 
 /* Header */
 header {
-    background: #333;
-    color: #fff;
+    background: #050523; /* Updated color */
+    color: #c0b9ac; /* Updated color */
     padding: 1.5rem;
     text-align: center;
 }
@@ -25,21 +25,21 @@ header h1 {
 
 /* Navigation */
 nav a {
-    color: #fff;
+    color: #c0b9ac; /* Updated color */
     text-decoration: none;
     margin: 0 0.5rem;
 }
 
 nav a:hover {
-    color: #ffc107;
+    color: #a31101; /* Updated color */
 }
 
 /* Hero Section */
 .hero {
     background:
       linear-gradient(
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
+      rgba(5, 5, 35, 0.5),
+      rgba(5, 5, 35, 0.5)
       ),
       url('https://cdn.discordapp.com/attachments/1013219587053064202/1097288997610475650/ChristianKing_photorealistic_image_of_a_pool_with_a_focus_on_th_4be26125-081d-47d6-a4b8-14611e4f9dee.png') no-repeat center center/cover;
     height: 60vh;
@@ -48,7 +48,7 @@ nav a:hover {
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: #fff;
+    color: #c0b9ac; /* Updated color */
     padding: 0 2rem;
 }
 
@@ -64,8 +64,8 @@ nav a:hover {
 
 .cta-button {
     display: inline-block;
-    background: #ffc107;
-    color: #333;
+    background: #a31101; /* Updated color */
+    color: #050523; /* Updated color */
     padding: 0.5rem 1rem;
     text-decoration: none;
     border-radius: 5px;
@@ -73,7 +73,7 @@ nav a:hover {
 }
 
 .cta-button:hover {
-    background: #e0ac07;
+    background: #6d0901; /* Updated color */
 }
 
 /* Media query for mobile devices */
@@ -86,7 +86,6 @@ nav a:hover {
         font-size: 1.2rem;
     }
 }
-
 
 /* Sections */
 section {
@@ -123,7 +122,7 @@ section p {
     margin-bottom: 2rem;
 }
 
-/* Styles pour les images de services */
+/* Styles for service images */
 .service img {
     width: 100%;
     max-width: 300px;
@@ -132,7 +131,6 @@ section p {
     margin: 0 auto 1rem;
     border-radius: 5px;
 }
-
 
 /* Hours of Operation */
 #heures {
@@ -153,8 +151,8 @@ section p {
 }
 
 #regions li {
-    background: #333;
-    color: #fff;
+    background: #050523; /* Updated color */
+    color: #c0b9ac; /* Updated color */
     font-size: 1.2rem;
     padding: 0.5rem 1rem;
     border-radius: 5px;
@@ -168,8 +166,8 @@ section p {
 
 /* Footer */
 footer {
-    background: #333;
-    color: #fff;
+    background: #050523; /* Updated color */
+    color: #c0b9ac; /* Updated color */
     padding: 1rem;
     text-align: center;
 }
