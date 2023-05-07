@@ -12,3 +12,15 @@ liste:
   description: "Nous assurons l'ouverture de votre piscine au printemps et sa mise en veille pour l'hiver, en veillant à la protection optimale de votre installation."
   image: /imgs/ouverture-fermeture.png
   alt: Ouverture et fermeture de piscine
+- title: Changement de toile hors terre et creusé
+  description: "Nous proposons le changement de toile pour les piscines hors terre et creusées. Nos experts peuvent vous aider à choisir la toile qui convient le mieux à votre installation."
+  image: /imgs/changement-toile.png
+  alt: Changement de toile de piscine
+- title: Installation et désinstallation de piscine hors-terre
+  description: "Nous proposons l'installation et la désinstallation de piscines hors-terre pour que vous puissiez profiter de votre été en toute tranquillité."
+  image: /imgs/installation-desinstallation.png
+  alt: Installation et désinstallation de piscine hors-terre
+- title: Vente de produits
+  description: "Nous vendons une large gamme de produits pour l'entretien de votre piscine, notamment des produits chimiques, des accessoires et des équipements."
+  image: /imgs/vente-produits.png
+  alt: Vente de produits pour piscine
