@@ -14,15 +14,15 @@ hero:
     section: "#contact"
 apropos:
   titre: À propos de nous
-  description: "Entreprise Prestige Piscines est une entreprise de confiance offrant des services d'entretien de piscines haut de gamme dans la région. Avec des années d'expérience et une équipe d'experts dévoués, nous nous engageons à fournir un service exceptionnel et à satisfaire les besoins de nos clients."
+  description: "Entreprise S.EAU.S Piscines est une entreprise de confiance offrant des services d'entretien de piscines haut de gamme dans la région. Avec des années d'expérience et une équipe d'experts dévoués, nous nous engageons à fournir un service exceptionnel et à satisfaire les besoins de nos clients."
 contact:
   titre: Contactez-nous
   email:
     titre: Email
-    address: "info@seauspiscines.ca"
+    address: "pisicnetremblay@gmail.com"
   telephone:
     titre: Téléphone
-    numero: "(514) 555-0167"
+    numero: "(514) 909-4107"
 heures:
   titre: Heures d'ouverture
   liste:
